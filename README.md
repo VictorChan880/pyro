@@ -1,6 +1,6 @@
 # Pyro — A Tree-Walk Interpreter
 
-Pyro is a simple interpreted programming language built in Go, inspired by the [Crafting Interpreters](https://craftinginterpreters.com/) book by Bob Nystrom.
+Pyro is a simple interpreted programming language built in Go.
 
 ## Features
 
@@ -59,4 +59,4 @@ FizzBuzz(15);
 ```
 
 ## Credits
-Pyro is based on the book Crafting Interpreters by Bob Nystrom.
+Pyro is based on the book [Crafting Interpreters](https://craftinginterpreters.com/) by Bob Nystrom.
