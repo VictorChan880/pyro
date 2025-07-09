@@ -1,4 +1,4 @@
-# Pyro — A Tree-Walk Interpreter
+# Pyro
 
 Pyro is a simple interpreted programming language built in Go.
 
